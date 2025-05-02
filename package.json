@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Myo Min Lin",
 	"description": "A project that does something awesome",
-	"keywords": ["freecodecamp", "backend", "api" ],
+	"keywords": [ "freecodecamp", "npm", "node" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
